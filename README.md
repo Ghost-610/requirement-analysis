@@ -11,3 +11,32 @@ Requirement Analysis is the systematic process of identifying, documenting, and 
 3. Requirements form the basis for test case creation
 4. Scope Creep: Well-defined requirements prevent uncontrolled expansion
 5. Miscommunication: Clear documentation reduces misunderstandings
+
+
+### Why is Requirement Analysis Important? 
+
+1. Foundation for All Development Activities
+Requirement Analysis serves as the fundamental blueprint that guides every subsequent phase of the SDLC. Just as a building requires architectural plans before construction begins, software development requires clear requirements before any code is written.
+
+2 Risk Mitigation and Cost Control
+Proper Requirement Analysis acts as a powerful risk management tool, preventing the most costly and common causes of software project failure while dramatically reducing overall project costs.
+
+3.  Stakeholder Alignment and Quality Assurance
+Requirement Analysis ensures all stakeholders share a common vision of the final product while establishing measurable quality criteria that guide development decisions.
+
+### Key Activities in Requirement Analysis.
+1. Requirement Gathering
+* Engage with stakeholders to collect initial requirements.
+* Use various techniques like interviews, surveys, and workshops.
+2. Requirement Elicitation
+* Refine and elaborate on the gathered requirements.
+* Use techniques like brainstorming, focus groups, and prototyping.
+3. Requirement Documentation
+* Document the requirements in a detailed and structured format.
+* Use requirement specification documents, user stories, and use cases.
+4. Requirement Analysis and Modeling
+* Analyze and prioritize the requirements.
+* Create models to visualize and understand the requirements.
+5. Requirement Validation
+* Review and validate the requirements with stakeholders.
+* Define acceptance criteria and ensure traceability.
