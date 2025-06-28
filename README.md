@@ -79,5 +79,5 @@ Proper Requirement Analysis acts as a powerful risk management tool, preventing 
 
 Here is the use case diagram for the Booking System:
 
-![Use Case Diagram]( /%20alx-booking-uc.png)
+![Use Case Diagram]( img/alx-booking-uc.png)
 
