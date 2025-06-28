@@ -68,8 +68,8 @@ Proper Requirement Analysis acts as a powerful risk management tool, preventing 
 
 ### Use Case Diagrams
 
+### Benefits of Use Case Diagrams:
 
-###  Benefits of Use Case Diagrams:
 - Clear visualization of system behavior
 - Easy communication between non-technical stakeholders and developers
 - Helps identify required features early
@@ -81,3 +81,23 @@ Here is the use case diagram for the Booking System:
 
 ![Use Case Diagram](alx-booking-uc.png)
 
+### Acceptance Criteria.
+
+Importance of Acceptance Criteria in Requirement Analysis
+
+Acceptance criteria are a vital part of requirement analysis. They define the conditions that a software feature must meet in order to be accepted by stakeholders. These criteria act as a clear checklist for both developers and testers to determine when a user story or functionality is complete and working as expected.
+
+- Why Acceptance Criteria Matter
+
+* Clarity: They remove ambiguity and ensure everyone understands what the feature should do.
+* Scope Control: They help avoid scope creep by strictly outlining what’s included.
+* Testability: They make it easier to write test cases for quality assurance.
+* User-Focused: They ensure the delivered feature meets the actual user needs.
+
+### Examples
+
+- The system must calculate and display applicable taxes and total cost.
+- The user must select a payment method (e.g., credit card, mobile money).
+  - The checkout process must include a confirmation step before final submission.
+  - Upon successful checkout, the user should receive a booking confirmation with a unique reference number.
+  - If payment fails, an appropriate error message should be displayed, and the user must be prompted to retry.
