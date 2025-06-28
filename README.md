@@ -81,3 +81,5 @@ Here is the use case diagram for the Booking System:
 
 ![Use Case Diagram]( alx-booking-uc.png)
 
+ ### Introduction
+ This repository contains the design and documentation of a Booking Management System. Its purpose is to demonstrate how core software engineering principles—such as requirement analysis, use case modeling, and system design—can be applied to build a functional and user-friendly booking system. The project includes visual representations like use case diagrams and provides insight into actor interactions, making it useful for both academic study and practical implementation.
