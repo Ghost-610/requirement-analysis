@@ -65,3 +65,19 @@ Proper Requirement Analysis acts as a powerful risk management tool, preventing 
    Non-functional Requirements define how the system should perform - they specify the quality attributes, performance criteria, and constraints under which the system must operate. These requirements don't describe what the system does, but rather how well it does it.
 
 - Performance: Load balancing, CDN delivery, Redis caching for fast response times
+
+### Use Case Diagrams
+
+
+###  Benefits of Use Case Diagrams:
+- Clear visualization of system behavior
+- Easy communication between non-technical stakeholders and developers
+- Helps identify required features early
+- Defines system boundaries and responsibilities
+
+## 🖼️ Use Case Diagram
+
+Here is the use case diagram for the Booking System:
+
+![Use Case Diagram]( alx-booking-uc.png)
+
